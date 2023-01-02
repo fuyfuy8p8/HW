@@ -5,3 +5,5 @@
 ## Основные команды GIT part 2
 ## Branches
 ## Work with branches
+
+При работе с branches могут вознить конфликты. 
