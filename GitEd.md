@@ -36,3 +36,11 @@ GitHub
 10. git add
 11. git commit
 12. git push
+
+Чтобы предложить изменения владельцу форкунтого репозитория:
+1. Вернуться к списку своих репозиториев
+2. Нажать Pull requests (слево вверху)
+3. New pull request (справо вверху)
+5. Create pull request
+6. Даём название
+7. Create pull request
